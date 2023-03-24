@@ -1,0 +1,4 @@
+1- load the file r01_edfm.mat in the command line
+2-open the file named plotATM using the notepade
+3-copy its content and past it in the matlab command line
+4-the four filtering results should be ploted then
